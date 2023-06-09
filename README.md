@@ -1,14 +1,14 @@
-# Huffman-Coding
-
-## Aim:
+## Ex-12 Huffman-Coding
+**Date:31/05/2023**
+### Aim:
 
 To implement Huffman coding to compress the data using Python.
 
-## Software Required:
+### Software Required:
 
 Anaconda - Python 3.7
 
-## Algorithm:
+### Algorithm:
 
 ### Step 1:
 
@@ -34,7 +34,7 @@ Print the characters with its equivalent Huffman code.
 
 End the program.
  
-## Program:
+### Program:
 
 ```python
 
@@ -120,13 +120,13 @@ for (char, frequency) in freq:
 ```
 
 
-## Output:
+### Output:
 
 ### Print the characters and its huffmancode:
 
 ![img1](https://github.com/simbu07/Huffman-Coding/assets/94525786/dc02e833-13ca-4378-b9fc-62209caa0871)
 
-## Result:
+### Result:
 
 Thus the huffman coding was implemented to compress the data using python programming.
 
